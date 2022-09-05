@@ -1,2 +1,2 @@
 #!/bin/bash
-cat third < iacta
+cat -n '3' iacta
