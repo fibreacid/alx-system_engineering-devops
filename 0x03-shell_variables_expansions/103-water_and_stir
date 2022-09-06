@@ -1,1 +1,2 @@
-
+#!/bin/bash
+echo $((echo $(echo $WATER | tr 'water')) + $( echo $(echo $STIR | tr 'stir')))
