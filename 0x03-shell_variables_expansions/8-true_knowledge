@@ -1,2 +1,2 @@
 #!/bin/bash
-TRUEKNOLEDGE="$((128 +128))" | echo $TRUEKNOWLEDGE
+echo $((128+TRUEKNOWLEDGE)) 
